@@ -2,46 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fafeb84-c372-4f85-8a85-7009a99d75a2" name="Default" comment="push">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NeuralNet/FaceTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NeuralNet/Image.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NeuralNet/ImageHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NeuralNet/edge.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NeuralNet/faceRecognition.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NeuralNet/neuralNet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NeuralNet/neuron.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/How-to-test.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NeuralNet.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facit-A.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facit-B.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facit.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NeuralNet/facit-A.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NeuralNet/facit-B.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NeuralNet/facit.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NeuralNet/myfacit.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NeuralNet/mytrain.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NeuralNet/mytrain.txt.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NeuralNet/result.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NeuralNet/resultat.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NeuralNet/test-B.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NeuralNet/training-A.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NeuralNet/training.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/result.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Image.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ImageHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edge.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/faceRecognition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/neuralNet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/neuron.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-B.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/training-A.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/training.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NeuralNet.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -560,7 +521,14 @@
       <option name="project" value="LOCAL" />
       <updated>1475710748260</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="push">
+      <created>1487934821679</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1487934821679</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -578,12 +546,12 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3092551" sideWeight="0.42909536" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3092551" sideWeight="0.42909536" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32997763" sideWeight="0.5244499" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42776525" sideWeight="0.47555012" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42212188" sideWeight="0.47310513" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
